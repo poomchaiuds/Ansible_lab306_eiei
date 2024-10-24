@@ -1,3 +1,4 @@
-172.31.106.10
-172.31.106.11
-172.31.106.12
+172.31.106.10 apache_package=apache2 php_package=libapache2-mod-php
+172.31.106.11 apache_package=apache2 php_package=libapache2-mod-php
+172.31.106.12 apache_package=apache2 php_package=libapache2-mod-php
+172.31.106.20 ansible_user=cloud-user apache_package=httpd php_package=php
